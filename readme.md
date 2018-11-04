@@ -11,8 +11,8 @@ The structure of this repo is as follows:
 
 Feel free to contribute with your own scripts and tools or with community based tools to this repo! Or just clone it into your [Parrot Machine](https://www.parrotsec.org/) or your [Kali Linux](https://www.kali.org/).
 
-´´´bash
+```bash
 > Regards,
 > Offensive Security Team
 > Centro de Ciberinteligencia - ENTEL
-´´´
+```
