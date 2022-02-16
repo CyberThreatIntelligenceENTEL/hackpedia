@@ -1,3 +1,6 @@
+Nota: Versión 1, uso limitado a python y sistemas unix que soporten curl.
+
+
 Verficar que se cumplan dependencias: 
 - Pandas
 - Warnings
